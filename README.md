@@ -2,7 +2,7 @@
 Extract header data, kernel, ramdisk, second and device tree from boot.img.
 
 * Command:
-> \$ sh ./xbootimg.sh boot.img
+> \$ sh xbootimg.sh boot.img
 
 * Output:
 Several files are created (warning: if the files exists, they are modified).
